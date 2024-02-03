@@ -20,6 +20,7 @@ END_MESSAGE_MAP()
 
 
 // CRemoteClientApp 构造
+// local_branch
 
 CRemoteClientApp::CRemoteClientApp()
 {
