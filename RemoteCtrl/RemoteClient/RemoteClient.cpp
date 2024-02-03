@@ -20,7 +20,7 @@ END_MESSAGE_MAP()
 
 
 // CRemoteClientApp 构造
-
+// master_branch
 CRemoteClientApp::CRemoteClientApp()
 {
 	// 支持重新启动管理器
